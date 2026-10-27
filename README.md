@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Skylight is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.skylight.io/
+Skylight provides a smart profiling platform for Ruby and Rails applications, turning performance data into actionable insights. It helps developers identify bottlenecks, understand slowdowns, and improve application speed through detailed tracing and analytics. The service offers a free tier with 100,000 traces per month and paid plans starting at $20, catering to teams of all sizes.
+
+**Areas:** Performance · Ruby · Rails · Monitoring · Profiling · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.skylight.io/)
+- [Documentation](https://docs.skylight.io/)
+- [Pricing](https://www.skylight.io/pricing)
+- [Sign up](https://www.skylight.io/signup)
+- [Support](https://www.skylight.io/support)
+- [Blog](https://blog.skylight.io/)
+- [Terms of service](https://www.skylight.io/tos)
+- [Privacy policy](https://www.skylight.io/privacy)
+- [Status](http://status.skylight.io)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/skylight/](https://apis.io/providers/skylight/).
